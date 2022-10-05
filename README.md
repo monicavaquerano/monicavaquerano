@@ -1,8 +1,8 @@
-![MasterHead](helloworld!.png)
-<h1 align="center">Hi! I'm Monica Vaquerano 👋👩‍💻</h1>
+![MasterHead](helloworld.png)
+<h1 align="center">Hi, I'm Monica Vaquerano 👋👩‍💻</h1>
 <h3 align="center">A passionate full stack junior developer</h3>
 
-<img align="right" alt="Coding" width="400" src="catcode.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e4739mpe5tc9wldbrhnhh6cnkci0v8hdl47cju0r1ub&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monicavaquerano&label=Profile%20views&color=0e75b6&style=flat" alt="monicavaquerano" /> </p>
 
@@ -29,35 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monicavaquerano&show_icons=true&locale=en" alt="monicavaquerano" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monicavaquerano&" alt="monicavaquerano" /></p>
-
-
-
-
-<!--
-### Hi! I'm Monica Vaquerano 👋🏽👩🏽‍💻
-
-**monicavaquerano/monicavaquerano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... 
-  conocimientos:
-  html
-  css
-  php
-  javascript
-  MySQL
-  
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-  linkedin
-  twitter
-  Instagram
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-https://emojis.github.io/
--->

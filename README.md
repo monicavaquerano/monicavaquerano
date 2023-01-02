@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Computer Science, phython**
 
-- 💬 Ask me about **HTML, CSS, PHP, Javascript**
+- 💬 Ask me about **HTML, CSS, PHP, Javascript, SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

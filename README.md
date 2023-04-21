@@ -8,9 +8,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e4739mpe5tc9wldbrhnhh6cnkci0v8hdl47cju0r1ub&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **Computer Science, phython**
+- 🌱 I’m currently learning **Computer Science, Python, Django**
 
-- 💬 Ask me about **HTML, CSS, PHP, Javascript, SQL**
+- 💬 Ask me about **HTML, CSS, PHP, JavaScript, SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

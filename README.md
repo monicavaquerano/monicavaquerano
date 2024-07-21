@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e4739mpe5tc9wldbrhnhh6cnkci0v8hdl47cju0r1ub&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular** & **C#** 
 
 - 💬 Ask me about **HTML, CSS, PHP, JS, SQL, Python, Django**
 

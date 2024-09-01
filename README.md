@@ -1,6 +1,6 @@
 <!-- ![MasterHead](helloworld.png) -->
 <h1>Hi 👋, I'm <a href="https://monicavaquerano.dev/">Monica</a> 👩‍💻</h1>
-<p>A Fullstack Developer from El Salvador 🇸🇻. Currently a Solution Expert at <a href="https://www.planb.net/en">PlanB</a> in Hüttlingen, Germany.</p>
+<p>A Fullstack Developer from El Salvador 🇸🇻. Currently a Solution Expert at <a href="https://www.planb.net/en">PlanB. GmbH</a> in Hüttlingen, Germany.</p>
 <h4 align="left">Connect with me:</h4>
 <p><a href="https://monicavaquerano.dev/"><img src="https://img.shields.io/badge/-monicavaquerano.dev-white?style=flat-square&labelColor=gray&logo=GoogleChrome&logoColor=white"&link=https://monicavaquerano.dev/" alt="LinkedIn Badge"></a> <a href="https://www.linkedin.com/in/monicavaquerano/"><img src="https://img.shields.io/badge/-@monicavaquerano-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white"&link=https://www.linkedin.com/in/monicavaquerano/" alt="LinkedIn Badge"></a> <a href="https://x.com/monicavaquerano/"><img src="https://img.shields.io/badge/-@monicavaquerano-000?style=flat-square&amp;labelColor=000&amp;logo=X&amp;link=https://x.com/monicavaquerano" alt="X Badge"></a> <a href="https://open.spotify.com/user/12164154635"><img src="https://img.shields.io/badge/-@Mónica%20Vaquerano-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/12164154635" alt="Spotify Badge"></a></p>
 <img align="right" src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>

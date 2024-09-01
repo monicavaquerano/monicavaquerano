@@ -25,6 +25,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> 
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Chrome browser" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white" /> 
+  <img alt="PHP"src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" /> 
   <img alt="Bootstrap"src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" /> 
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -36,8 +37,9 @@
 </p>
 <h2>📊 Stats</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" alt="My Github Stats"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=monicavaquerano&show_icons=true&theme=swift" alt="My Github Stats"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" alt="My Top Langs"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monicavaquerano&layout=compact&langs_count=8&card_width=320" alt="My Top Langs"/>
 </a>
+<!-- fotos -->
